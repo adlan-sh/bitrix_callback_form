@@ -1,0 +1,191 @@
+
+ŠWeb:DoctypePresenceCheck–	":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿJ$bd6cfe2c-a17c-41ed-ba00-7c4ca5e62a75
+	Web:S5254–	"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$d5d04358-c378-4fdd-92a8-ab333e05e99c
+tWeb:TableWithoutCaptionCheck»" Add a description to this table.(¾¥Ë¾ûÿÿÿÿJ$1be959e2-9b7d-49dd-a561-abe68a0016bd
+f	Web:S5256»"%Add "<th>" headers to this "<table>".(¾¥Ë¾ûÿÿÿÿJ$4aeddccc-c98e-4272-b71e-226f4de18f84
+j	Web:S1827½")Remove this deprecated "align" attribute.(™¿¿ùÿÿÿÿJ$3971e3ee-34b8-4508-ac2d-ed6af9740d92
+k	Web:S1827Ã"*Remove this deprecated "valign" attribute.(­Ù¸®ÿÿÿÿÿJ$4990e867-ae75-496a-98b6-8a4eb11bc997
+f	Web:S1827Æ"*Remove this deprecated "valign" attribute.(º®Ÿ©J$22fb4e05-af89-450e-8c81-f5a69e914151
+e	Web:S1827Æ")Remove this deprecated "align" attribute.(º®Ÿ©J$76b3486a-fa50-402a-92c3-983ecea176dc
+f	Web:S1827Æ"*Remove this deprecated "height" attribute.(º®Ÿ©J$38ff8b85-f02b-4ac3-b0a8-add7ee448716
+„	Web:S6848Ë"ÂAvoid non-native interactive elements. If using native HTML is not possible, add an appropriate role and support for tabbing, mouse, keyboard, and touch inputs to an interactive content element.(¤ñ„šùÿÿÿÿJ$8cfe0f95-c1c7-49a3-8b89-910b6b81cc09
+k	Web:S6853Ì"/A form label must be associated with a control.(¨ÒóJ$91abd7b6-d9e3-4514-885e-beb9e50c9d1c
+‘	Web:S6827Ù"PAnchors must have content and the content must be accessible by a screen reader.(İô»ùÿÿÿÿJ$d0ad39ef-4e04-445f-8228-68546f8a53f8
+	php:S1131–"@Remove the useless trailing whitespaces at the end of this line.( Û¬’üÿÿÿÿJ$a4ecdb21-7d09-4260-b42a-6f8bd3cf1d09
+{	php:S1131½"@Remove the useless trailing whitespaces at the end of this line.(úÚÂ%J$5e03a7b0-528a-4f99-ac1e-70c28df0c2fe
+{	php:S1131Â"@Remove the useless trailing whitespaces at the end of this line.(úÚÂ%J$1e3cbef6-5bf6-4834-a68c-f6c78d7333f4
+|	php:S1131â"@Remove the useless trailing whitespaces at the end of this line.(Î¹ÀøJ$60a7189f-c4d7-4e1a-af85-6dd0e9a3129a
+†php:S103º"KSplit this 269 characters long line (which is greater than 120 authorized).(ş‡üãJ$faac29b5-e84f-4f5c-b6cf-68a5414c2b40
+‹php:S103»"KSplit this 311 characters long line (which is greater than 120 authorized).(ÃÑäÿÿÿÿÿJ$f4f1f6b7-fe5d-45e6-949c-6751b427528e
+‹php:S103½"KSplit this 131 characters long line (which is greater than 120 authorized).(ØÌ¦ùûÿÿÿÿJ$e7fb9454-591a-489b-aa7c-bfcb38e0bac7
+‹php:S103¿"KSplit this 154 characters long line (which is greater than 120 authorized).(Øç„ËúÿÿÿÿJ$51283085-9a2d-4570-b4ea-ee72e0366db3
+†php:S103À"KSplit this 145 characters long line (which is greater than 120 authorized).(äåŠÀJ$48433c84-89e8-4530-b77b-75bb4fbfb396
+†php:S103Ì"KSplit this 457 characters long line (which is greater than 120 authorized).(üÛÖæJ$6f1448e0-93c6-4540-8054-c0978fbb7c02
+‹php:S103Ñ"KSplit this 294 characters long line (which is greater than 120 authorized).(ìŒäµûÿÿÿÿJ$f0ced199-d308-4959-a703-8acd24d863f5
+‹php:S103å"KSplit this 123 characters long line (which is greater than 120 authorized).(øÄËäùÿÿÿÿJ$4eb846fe-35f0-40b3-8c93-f9819f0bb92e
+‹php:S103ì"KSplit this 158 characters long line (which is greater than 120 authorized).(ó¦øÇúÿÿÿÿJ$5c014c44-d85a-4625-a49c-8743ad2498bf
+†php:S103‚"KSplit this 260 characters long line (which is greater than 120 authorized).(ªÆ¨åJ$133066e8-e931-4bde-a205-d56baad9c96b
+‹php:S103„"KSplit this 280 characters long line (which is greater than 120 authorized).(ÆíÍäÿÿÿÿÿJ$2cc6baed-642e-4d17-a368-90dc7b622c96
+‹php:S103†"KSplit this 172 characters long line (which is greater than 120 authorized).(«ş¥ÜşÿÿÿÿJ$a393de48-4fad-463d-9ba3-b03b32ffa48e
+‹php:S103‡"KSplit this 141 characters long line (which is greater than 120 authorized).(›ï¯ùÿÿÿÿJ$66f3c065-9d89-4045-a9fc-3b169059dc2f
+‹php:S103ˆ"KSplit this 205 characters long line (which is greater than 120 authorized).(§”†äûÿÿÿÿJ$01e059f6-77c0-40d6-9aeb-e5b25cda2b80
+†php:S103‰"KSplit this 154 characters long line (which is greater than 120 authorized).(²ÅúøJ$4ad2514e-ba49-423d-9708-5b4a28e19d2d
+‹php:S103–"KSplit this 189 characters long line (which is greater than 120 authorized).( Û¬’üÿÿÿÿJ$aaba22d6-e14c-4433-b96e-b7a272178862
+†php:S103—"KSplit this 203 characters long line (which is greater than 120 authorized).(ªá³ÖJ$a14f902e-be39-43d0-b120-ff43cd4e6384
+†php:S103œ"KSplit this 296 characters long line (which is greater than 120 authorized).(±³“J$4ab99bda-0eff-4e97-b06e-ae574cd216ee
+‹php:S103¥"KSplit this 125 characters long line (which is greater than 120 authorized).(ÚËÕ§úÿÿÿÿJ$58b18a2b-f0eb-4857-a8ae-8c319ac94454
+†php:S103¦"KSplit this 125 characters long line (which is greater than 120 authorized).(ğ­âşJ$454ea8c0-0d2f-4c2e-857e-bfdecb892224
+‹php:S103°"KSplit this 135 characters long line (which is greater than 120 authorized).(™ı§ÌıÿÿÿÿJ$ff0fa901-17fd-472d-9867-b34bc7d3bc7d
+‹php:S103·"KSplit this 183 characters long line (which is greater than 120 authorized).(öïøÓıÿÿÿÿJ$e36e3be2-ea22-4e6c-bbbe-fa23f8a787a3
+†php:S103Ì"KSplit this 230 characters long line (which is greater than 120 authorized).(ãİƒıJ$f89a7829-421c-42cb-b825-eaf32f374752
+†php:S103Í"KSplit this 316 characters long line (which is greater than 120 authorized).(¢ı›„J$3945c51e-65eb-4eee-ad31-f4995849b317
+†php:S103Ï"KSplit this 133 characters long line (which is greater than 120 authorized).(¥şœÚJ$4dd5be25-9d21-49f4-85f4-b899160d01ac
+†php:S103Ğ"KSplit this 139 characters long line (which is greater than 120 authorized).(ŠÛÀ®J$9f7be28b-338b-4e7b-80a3-31e4f57e4d78
+†php:S103Ñ"KSplit this 147 characters long line (which is greater than 120 authorized).(ô—àİJ$7830c719-8752-4a14-af8f-ba9fbfa37fde
+‹php:S103Ò"KSplit this 154 characters long line (which is greater than 120 authorized).(ë´‘ÎùÿÿÿÿJ$00fe4e33-f7ea-4ff1-96f2-5f93795a2e12
+†php:S103ã"KSplit this 286 characters long line (which is greater than 120 authorized).(àÚ¡˜J$0f9826f7-2c6f-4c69-aa39-139f5ffc933d
+‹php:S103ş"KSplit this 167 characters long line (which is greater than 120 authorized).(‚Ç¦ˆøÿÿÿÿJ$23591db7-1e3d-4a76-976a-92210117a19e
+…php:S103‘"KSplit this 151 characters long line (which is greater than 120 authorized).(Ò¢êJ$abe773e5-f532-4b47-880b-8ca6c9b1d6ed
+‹php:S103²"KSplit this 134 characters long line (which is greater than 120 authorized).(ü“«ûÿÿÿÿJ$2e7468f2-db26-45ae-bebf-992ad553e761
+†php:S103Ã"KSplit this 199 characters long line (which is greater than 120 authorized).(åÆ§´J$a4a3635a-a3fe-436c-9b93-5bafe0f12399
+‹php:S103Ú"KSplit this 289 characters long line (which is greater than 120 authorized).(ñ¥¯ßøÿÿÿÿJ$9f20a7e9-1893-43f8-943c-e92dcb9f1be7
+†php:S103İ"KSplit this 260 characters long line (which is greater than 120 authorized).(ºó¢ÔJ$3b175df8-1fd4-448c-91d0-27559c5ef143
+†php:S103á"KSplit this 144 characters long line (which is greater than 120 authorized).(½Ö‹ÇJ$00b0bc54-3132-4cd2-9933-7a4c910195d7
+†php:S103ì"KSplit this 238 characters long line (which is greater than 120 authorized).(Š”ÌÇJ$febf07ac-7be1-42af-9ce3-23c1eca77d85
+…php:S103í"KSplit this 163 characters long line (which is greater than 120 authorized).(şÍ J$24ef9027-9a75-417d-8172-0c71e4bb7623
+†php:S103û"KSplit this 139 characters long line (which is greater than 120 authorized).(ğºÁ®J$f6e9093c-fab2-4bfc-a1e6-6b20902cbb20
+†php:S103œ"KSplit this 139 characters long line (which is greater than 120 authorized).(ğºÁ®J$cfa738d1-e4ac-4bde-b3a7-e0935559a06f
+‹php:S103µ"KSplit this 146 characters long line (which is greater than 120 authorized).(äñ×öüÿÿÿÿJ$41141ab4-d9d2-4aa3-aa67-c91fb535c088
+…php:S103¿"KSplit this 301 characters long line (which is greater than 120 authorized).(° Œ^J$4acb7b62-365f-4e50-bedc-2528a2d62ab5
+†php:S103Ä"KSplit this 192 characters long line (which is greater than 120 authorized).(·®€J$bea7f737-c4f8-4de3-9435-316f5b34ee1f
+‹php:S103Ì"KSplit this 429 characters long line (which is greater than 120 authorized).(ğƒÁÑşÿÿÿÿJ$a6d127b2-6d06-438d-a6e6-77e12ca9773d
+‹php:S103ß"KSplit this 211 characters long line (which is greater than 120 authorized).(Ìİ²ÎüÿÿÿÿJ$d55d114b-3823-410b-8b5f-e03e86bdba8d
+†php:S103“"KSplit this 183 characters long line (which is greater than 120 authorized).(ÂéˆïJ$d26a89f7-476c-4b65-a675-ea8d5d2b3a39
+†php:S103‘"KSplit this 181 characters long line (which is greater than 120 authorized).(­˜ÿÖJ$b3bcb407-b766-4ed1-9c12-907f38467d41
+†php:S103œ"KSplit this 161 characters long line (which is greater than 120 authorized).(¤ò…™J$1c1104c0-15f7-4b77-91ee-803872122adb
+†php:S103¨"KSplit this 163 characters long line (which is greater than 120 authorized).(ûùô«J$63a4342e-c395-4d56-98c5-fceea815ef24
+†php:S103¬"KSplit this 169 characters long line (which is greater than 120 authorized).(¯¿¥J$932016dc-5060-41ce-a462-3838b5939c08
+†php:S103°"KSplit this 164 characters long line (which is greater than 120 authorized).(²ŞëøJ$d73c13b8-b6df-4ca4-8b05-29c7f7bd0ce0
+†php:S103ğ"KSplit this 126 characters long line (which is greater than 120 authorized).(Üşû¯J$a17d7568-299b-4c5a-8727-a2ef2c29dc72
+†php:S103©"KSplit this 180 characters long line (which is greater than 120 authorized).(­˜ÿÖJ$7bbcbe41-67fd-4895-bdf6-f587ae744469
+‹php:S103¸"KSplit this 163 characters long line (which is greater than 120 authorized).(‘ª©–ùÿÿÿÿJ$a0c87034-6f76-41e2-851e-c366c023b5e3
+†php:S103¼"KSplit this 173 characters long line (which is greater than 120 authorized).(ÏŒÀJ$9f47e958-beca-4e29-978b-a3ff95929e94
+†php:S103ƒ	"KSplit this 148 characters long line (which is greater than 120 authorized).(’ˆJ$14fc86b6-a5fe-4d66-8ee2-18d55274c956
+‹php:S103	"KSplit this 138 characters long line (which is greater than 120 authorized).(ñùÇÁùÿÿÿÿJ$98d6702d-8135-424a-8e49-ce1b73eef9c0
+Œphp:S103¼	"LSplit this 1209 characters long line (which is greater than 120 authorized).(›’ÕÙúÿÿÿÿJ$b6c781d4-e053-42ad-b484-bfb6e31b7073
+‡php:S103À	"LSplit this 1189 characters long line (which is greater than 120 authorized).(™Ñ×€J$46dbb557-f415-4d8a-8d22-7bef4e70ebc2
+‡php:S103–
+"LSplit this 6735 characters long line (which is greater than 120 authorized).(«ßÉ—J$ac517e1f-d268-4ab9-936a-444303e44b3d
+Œphp:S103˜
+"LSplit this 8415 characters long line (which is greater than 120 authorized).(¡÷”ƒüÿÿÿÿJ$de61b361-b727-4d2d-8fa7-525d499534eb
+†php:S103š
+"LSplit this 7911 characters long line (which is greater than 120 authorized).(ŞÌJ$1ecef313-57f7-40d6-8ceb-6ef7afee311a
+Œphp:S103¥
+"LSplit this 1986 characters long line (which is greater than 120 authorized).(±ÔìüÿÿÿÿJ$2ba2567c-d748-48e3-847d-06aed53067ea
+Œphp:S103§
+"LSplit this 3350 characters long line (which is greater than 120 authorized).(·±†¥şÿÿÿÿJ$9746a6b0-d9c2-4f69-bf95-43393e139f99
+†php:S103©
+"LSplit this 2498 characters long line (which is greater than 120 authorized).(ğ—ŠJ$fd30faa6-29b2-4c05-b1e5-f405d92bd626
+‡php:S103ç
+"LSplit this 6770 characters long line (which is greater than 120 authorized).(Àà™J$e56cb209-54d6-4e40-935c-a5e178d99c88
+‡php:S103é
+"LSplit this 8459 characters long line (which is greater than 120 authorized).(—œßÇJ$6ab52240-16f3-45ef-844a-0e62cd4a48ad
+‡php:S103ë
+"LSplit this 7975 characters long line (which is greater than 120 authorized).(·î‘òJ$cc63922f-da11-4553-b0d4-4e909518bb71
+Œphp:S103¤"LSplit this 3030 characters long line (which is greater than 120 authorized).(¯‘“ıÿÿÿÿJ$cc2936cd-e34c-4e40-8f1d-c960e2339185
+‹php:S103Æ"KSplit this 736 characters long line (which is greater than 120 authorized).(½×ŸéüÿÿÿÿJ$086ee7a0-fd96-4862-8c64-350a7cf2b912
+‹php:S103Ë"KSplit this 181 characters long line (which is greater than 120 authorized).(¤ñ„šùÿÿÿÿJ$4d80d795-bb25-48a5-8063-67258fecc8e6
+†php:S103Š"KSplit this 150 characters long line (which is greater than 120 authorized).(ìé§J$b40d3330-df68-4c04-a720-ca606277563c
+‹php:S103è"KSplit this 121 characters long line (which is greater than 120 authorized).( ‡¡ôøÿÿÿÿJ$41053890-47d4-48ad-9f2d-68622eebf7fb
+‹php:S103ì"KSplit this 137 characters long line (which is greater than 120 authorized).(ŒÜÛÑûÿÿÿÿJ$18d1fe14-0be5-46f8-8b5a-ee8ab21f4d93
+†php:S103"KSplit this 220 characters long line (which is greater than 120 authorized).(Îè§ÌJ$4eb6f4a2-8a7d-4c60-b0bd-4958dc61b351
+‹php:S103ÿ"KSplit this 195 characters long line (which is greater than 120 authorized).(¸ºãµøÿÿÿÿJ$0194a47b-876e-4956-bd8d-bbcd56f22b63
+—php:S100‚"WRename function "LoaderGetMessage" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³õ £øÿÿÿÿJ$1264495a-1424-4275-b433-609c2db7d04f
+Šphp:S100œ"ORename function "LoadFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ë¢£İJ$7598f860-e822-4da3-8958-8f06ef893f3c
+—php:S100ò"WRename function "SetCurrentStatus" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ßïşùÿÿÿÿJ$046cf354-58e2-4bc3-aba0-5f4189e96d0a
+”php:S100ø"YRename function "SetCurrentProgress" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸Ù•¦J$57e38289-2f2b-40f4-84a2-8bf71542c31c
+‹php:S100Ô"PRename function "GetErrors" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹´ÖâJ$7ea8ac69-e277-44d2-ac8c-ccb8ff143e0f
+php:S100Ù"SRename function "_extractList" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŸÑ‰5J$e6d176bc-045d-4756-94b3-b107063350c3
+‹php:S100É"QRename function "_readBlock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹ş¢"J$e4e0e486-bba0-4613-a80f-cf6c84692881
+php:S100ë"RRename function "_readHeader" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸’üJ$cc836365-2107-4950-96fa-c609a960ee44
+–php:S100"VRename function "_readLongHeader" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚ÜıÜøÿÿÿÿJ$cdc20e09-e773-40ab-932c-a629ce730561
+Œphp:S100¹"QRename function "_jumpBlock" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Á»Ÿ¬J$861a2cfe-0d1f-4773-942b-093650067c87
+‘php:S100Î"WRename function "_parseFileParams" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íÇYJ$dfedc248-9f07-4954-a6fd-df12afe23999
+‹php:S100Û"PRename function "_openRead" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ï¿²ÛJ$39b4c56d-c6e8-4215-be6b-62f7649121f9
+php:S100ò"MRename function "_close" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»·ÓÔûÿÿÿÿJ$29276115-fc7d-4a75-82b9-9dccbf74d035
+‹php:S100…"PRename function "_dirCheck" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÇåšëJ$03f9502c-f073-46a6-8a92-b69fb20ca303
+php:S100®"PRename function "ShowError" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶ß¿‘ıÿÿÿÿJ$0bf38eef-1360-4440-898c-523c2809d999
+›php:S100³"[Rename function "bx_accelerator_reset" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°şöËøÿÿÿÿJ$89e27327-6029-45f7-a7fa-d861ebd64fd2
+–php:S100»"VRename function "EscapePHPString" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•‚ ØÿÿÿÿÿJ$76a41c9e-bc11-4531-b0b9-754a0ee3ec0e
+q	php:S1765‘"5Replace the "var" keyword with the modifier "public".(ÄèøîJ$3cb2090a-d6ae-4b5f-8964-62e8dbeed4ae
+v	php:S1765’"5Replace the "var" keyword with the modifier "public".(ŒÖâòùÿÿÿÿJ$d63b6f20-1c95-42f1-945c-20733f8e1ff6
+q	php:S1765“"5Replace the "var" keyword with the modifier "public".(ì¸ªÅJ$fcca90d2-5edb-43f4-acbf-d5eadfe47fc5
+v	php:S1765”"5Replace the "var" keyword with the modifier "public".(’Üü¸ùÿÿÿÿJ$6f1ba443-730a-4aa4-ba9e-c4109184b3c6
+v	php:S1765–"5Replace the "var" keyword with the modifier "public".(Ëê”¨ùÿÿÿÿJ$0602e578-7130-4f38-ba94-4bebb6ce392c
+q	php:S1765—"5Replace the "var" keyword with the modifier "public".(œ—‰ŒJ$bdbbfff5-df43-45f8-bfa6-0042bed5e19b
+v	php:S1765˜"5Replace the "var" keyword with the modifier "public".(³Åù«ÿÿÿÿÿJ$b2a522c4-8237-485c-8b55-b4f3239d5bff
+q	php:S1765™"5Replace the "var" keyword with the modifier "public".(êàòÇJ$1ac180a2-826f-454a-a37c-435efc658049
+€	php:S1784›"DExplicitly mention the visibility of this constructor "__construct".(øÒŒÏJ$f93e052f-3b19-4016-b318-1c7d5e84a5a8
+|	php:S1784½"@Explicitly mention the visibility of this method "extractFiles".(“„€ÄJ$167c144e-ebf6-417d-93c7-91382cabaf5a
+y	php:S1784Ô"=Explicitly mention the visibility of this method "GetErrors".(‹´ÖâJ$bcbd7478-f5fa-402e-801b-0d2a509c7cac
+{	php:S1784Ù"@Explicitly mention the visibility of this method "_extractList".(ŸÑ‰5J$14d42cc6-9e98-437b-a296-78b4bdffd922
+y	php:S1784É">Explicitly mention the visibility of this method "_readBlock".(‹ş¢"J$03d980e1-b26a-4db9-bf0a-3c06a779e952
+{	php:S1784ë"?Explicitly mention the visibility of this method "_readHeader".(¸’üJ$f46764b3-52ec-4387-8bb9-d779cb1a9b68
+„	php:S1784"CExplicitly mention the visibility of this method "_readLongHeader".(‚ÜıÜøÿÿÿÿJ$4739e4de-48ca-4dcf-88a7-81fc907e8ae2
+z	php:S1784¹">Explicitly mention the visibility of this method "_jumpBlock".(Á»Ÿ¬J$cc526a3b-14f4-44c6-b80e-f5eb43c21661
+	php:S1784Î"DExplicitly mention the visibility of this method "_parseFileParams".(íÇYJ$37ad05a9-0778-4a66-9500-aa8e9430bad8
+y	php:S1784Û"=Explicitly mention the visibility of this method "_openRead".(Ï¿²ÛJ$893c4601-c8c5-47c9-a682-984b54e18e6b
+{	php:S1784ò":Explicitly mention the visibility of this method "_close".(»·ÓÔûÿÿÿÿJ$bfd8e402-0004-44e5-9ce3-ba5c794e75e3
+y	php:S1784…"=Explicitly mention the visibility of this method "_dirCheck".(ÇåšëJ$fa01db5b-8ce2-4f06-bf7e-3bd9aedbfce3
+{	php:S1142œ"?This function has 10 returns, which is more than the 3 allowed.(ë¢£İJ$5e83b2ab-0f9c-40cb-8779-b4d29d9c8748
+x	php:S1142Ù"=This method has 12 returns, which is more than the 3 allowed.(ŸÑ‰5J$33278155-0434-48b5-ae4f-2102ea6a320e
+x	php:S1142ë"<This method has 5 returns, which is more than the 3 allowed.(¸’üJ$161a0460-c17a-474d-83dd-2b3c525fc30f
+x	php:S1142…"<This method has 4 returns, which is more than the 3 allowed.(ÇåšëJ$45540a08-815c-42bd-969c-b63ff6cebfba
+k	php:S1781ø"*Write this "FALSE" constant in lower case.(½Í²ŞıÿÿÿÿJ$a8ffad32-5908-4541-b171-5658a974b563
+f	php:S1781û"*Write this "FALSE" constant in lower case.(ç¹×áJ$26e7f687-d033-4810-be32-8bbf772e3492
+k	php:S1781ü"*Write this "FALSE" constant in lower case.(½Í²ŞıÿÿÿÿJ$7fe728f4-9010-4594-8da8-0d7a9f64f273
+f	php:S1781ÿ"*Write this "FALSE" constant in lower case.(ç¹×áJ$4909c9a5-0c6b-4e8b-ad86-ec93c6404f66
+f	php:S1781Œ"*Write this "FALSE" constant in lower case.(ÿÛ²ÌJ$b1c87a6a-4aaa-42a5-88af-b7496205ef1e
+”php:S116‘"YRename this field "$_strArchiveName" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÄèøîJ$863ca35b-01a3-4171-8071-f3f0671d6a8e
+”php:S116’"TRename this field "$_bCompress" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŒÖâòùÿÿÿÿJ$99cbbf73-d5cc-44f3-9d72-b1d6a670b7c2
+’php:S116“"WRename this field "$_strSeparator" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ì¸ªÅJ$b524c9a6-5848-4814-8d9d-0bd0f9e3c4b7
+php:S116”"PRename this field "$_dFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’Üü¸ùÿÿÿÿJ$762fc6ab-d180-4884-b6af-fcf196f79801
+“php:S116–"SRename this field "$_arErrors" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëê”¨ùÿÿÿÿJ$b667deb8-7e14-4575-8126-71ce50221a62
+‘	php:S3776œ"URefactor this function to reduce its Cognitive Complexity from 152 to the 15 allowed.(ë¢£İJ$36aa22d9-faee-45ff-93fa-3986c5a3be8f
+	php:S3776Ù"URefactor this function to reduce its Cognitive Complexity from 136 to the 15 allowed.(ŸÑ‰5J$814663ae-3240-4694-81aa-62d335e50c15
+	php:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ì§ä…J$a6ece1a3-2233-4188-a6a4-abbf340e86ac
+ˆ	php:S1192¿"GDefine a constant instead of duplicating this literal "#FILE#" 4 times.(¶Òè¾şÿÿÿÿJ$4f54d132-1555-470b-8978-84c7fdf698f1
+‡	php:S1192¨"FDefine a constant instead of duplicating this literal "HEAD " 3 times.(üµêÿÿÿÿÿJ$b1cde740-3666-4cf5-af6f-f7364349f552
+£	php:S1192V"hDefine a constant instead of duplicating this literal "ĞšĞ¾Ñ€Ğ¿Ğ¾Ñ€Ğ°Ñ‚Ğ¸Ğ²Ğ½Ñ‹Ğ¹ Ğ¿Ğ¾Ñ€Ñ‚Ğ°Ğ»" 3 times.(À³‚ÊJ$5e7a602c-547c-416e-8b10-36c261dcbdf1
+„	php:S1192ê"HDefine a constant instead of duplicating this literal "/bitrix" 3 times.(°ø§èJ$c03ebb3b-9670-4411-8cc2-675507d7d35c
+‹	php:S1192¿"PDefine a constant instead of duplicating this literal "\");</script>\n" 3 times.(° Œ^J$928530cd-5c2f-45e7-ab9b-af44c6d69450
+ƒ	php:S1192¤"GDefine a constant instead of duplicating this literal "ssl://" 3 times.(˜•Ò–J$72679dfb-ae91-49bc-ae7e-352f6c21468c
+›	php:S1192ú"_Define a constant instead of duplicating this literal "Auswahl des Installationspacks" 3 times.(Ã˜¸¬J$c736bd69-8b54-4b9d-9bf3-79183925b628
+«	php:S1192ì"oDefine a constant instead of duplicating this literal "<input type="button" value="&nbsp;&nbsp;&nbsp;" 4 times.(Š”ÌÇJ$2756e092-a379-4abe-b5fe-76cebe404912
+	php:S1192¿"TDefine a constant instead of duplicating this literal "<script>GoToPage(\"" 3 times.(° Œ^J$7f68b60b-dc1e-4ddc-b54e-7c972d1a070a
+	php:S1192í"NDefine a constant instead of duplicating this literal " HTTP/1.0\r\n" 4 times.(º½¥´üÿÿÿÿJ$5491ac5e-87c9-4b46-85e6-ec002c823638
+o	php:S1481İ".Remove this unused "$v_result" local variable.(˜“ÛĞùÿÿÿÿJ$db371970-e85f-4334-bfc4-03ca3bf8e67f
+…	php:S3358Ü"DExtract this nested ternary operation into an independent statement.(òãèúÿÿÿÿJ$4b75f329-1995-4fe9-87bc-8d8bb97b31f7
+…	php:S3358ê"DExtract this nested ternary operation into an independent statement.(òãèúÿÿÿÿJ$424a386f-add6-41c8-b02b-61ea66d3cb92
+p	php:S1066Ÿ"/Merge this if statement with the enclosing one.(öÊşŠÿÿÿÿÿJ$9ba2f06f-2c99-4e1b-8365-d5bc33d82c31
+p	php:S1066"/Merge this if statement with the enclosing one.(èö„ŞÿÿÿÿÿJ$53c98960-f603-4a0f-ac32-6aa5bd7d93e1
+p	php:S1066Ã"/Merge this if statement with the enclosing one.(ØÓş¢üÿÿÿÿJ$a00cf01f-3c11-4800-865c-5e74b0492984
+p	php:S1066œ"/Merge this if statement with the enclosing one.(ıÅ¡üÿÿÿÿJ$1625cf38-c49c-49d9-8af0-3c77c13386d4
+p	php:S1066ø"/Merge this if statement with the enclosing one.(»–†ĞıÿÿÿÿJ$00d94701-008e-4bd9-be85-a86d7d1c0df6
+|	php:S6353°";Use concise character class syntax '\d' instead of '[0-9]'.(ì£ÇÊúÿÿÿÿJ$50a8690b-a844-42e9-9f52-cbe8c5e761d2
+|	php:S6353";Use concise character class syntax '\d' instead of '[0-9]'.(ß¼œøÿÿÿÿJ$1969053a-cb44-4700-8c94-7581b1332a1e
+|	php:S6353¦";Use concise character class syntax '\d' instead of '[0-9]'.(ß¼œøÿÿÿÿJ$3e90f435-30e3-4eac-8647-771ca9733d1a
+|	php:S6353Ã";Use concise character class syntax '\d' instead of '[0-9]'.(ØÓş¢üÿÿÿÿJ$75f48b4f-e256-4d5a-b045-b4bae58a6681
+|	php:S6353Ã";Use concise character class syntax '\d' instead of '[0-9]'.(ØÓş¢üÿÿÿÿJ$dd4f6524-2bf6-46b1-8d63-be4d7639550b
+|	php:S6353Ã";Use concise character class syntax '\d' instead of '[0-9]'.(ØÓş¢üÿÿÿÿJ$dd506480-4111-4a6e-b15a-8cb00c66401a
+€	php:S1854´"?Remove this useless assignment to local variable '$v_file_dir'.(ØĞ…—ùÿÿÿÿJ$cd603980-3b54-4269-b3ea-946410c60285
+f	php:S2003="&Replace "include" with "include_once".(òè£äøÿÿÿÿJ$e63de659-1d6c-42d5-9aa3-fd36c298196b
+p	php:S6600="0Remove the parentheses from this "include" call.(òè£äøÿÿÿÿJ$091aa4e4-92c7-434b-87c1-b32efd85824c
+kphp:S121ü"0Add curly braces around the nested statement(s).(çÉˆÆJ$64a3c73f-db44-4a76-807c-7c8825c39230
+kphp:S121Ô"0Add curly braces around the nested statement(s).(¥†Â§J$6cd4b5b8-21b9-481b-9d95-b2fa1d5978ce
+pphp:S121Ö"0Add curly braces around the nested statement(s).(°‡ØûÿÿÿÿJ$692adb75-efa6-42ec-bf4e-bda0814edba4
+pphp:S121Û"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿJ$db1dcaf2-073b-47b7-a366-e0e97e696af9
+pphp:S121Ù"0Add curly braces around the nested statement(s).(†²ÙşÿÿÿÿJ$3d9ba63c-fcd8-49ab-9cef-b7db5cab8c4b
+Œ	php:S4833="LReplace "include" with namespace import mechanism through the "use" keyword.(òè£äøÿÿÿÿJ$ceeae2e2-464a-4d8e-9e3e-d6119a7ffe7d
+³php:S138œ"xThis function "LoadFile" has 323 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ë¢£İJ$05f1f895-1fab-4396-b125-6bf8047b41fd
+¶php:S138Ù"|This function "_extractList" has 209 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ŸÑ‰5J$b2faf201-aaac-485f-9be5-d048cea4e75f

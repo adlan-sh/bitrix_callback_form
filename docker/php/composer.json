@@ -1,0 +1,15 @@
+{
+  "require": {
+    "andreyryabin/sprint.migration": "^5.13"
+  },
+  "extra": {
+    "installer-paths": {
+      "local/modules/{$name}/": ["type:bitrix-module"]
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}

@@ -14,6 +14,7 @@ setup:
 			-o /var/www/html/bitrixsetup.php && \
 		chmod 644 /var/www/html/bitrixsetup.php"
 	@echo "bitrixsetup.php загружен"
+	@docker compose exec php composer install
 
 set-perms:
 	@sudo chown -R $(shell id -u):$(shell id -g) www

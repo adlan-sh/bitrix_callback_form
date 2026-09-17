@@ -1,6 +1,0 @@
-2026-09-15 23:56:56 -  - exec CUpdateClient::GetUpdatesList
-2026-09-15 23:56:56 -  - exec CUpdateClient::CollectRequestData
-2026-09-15 23:56:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=25.1100.0&VERSION=26.150.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&SERVER_NAME=&CHHB=localhost%3A8080&CSAB=172.28.0.5&SUID=1wm75pg3rp2kay45bhvqwtq9p2aoxua9&CANGZIP=Y&CLIENT_PHPVER=8.3.33&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=26.150.0&bitm_security=25.0.0&bitm_perfmon=25.300.0&bitm_blog=26.400.0&bitm_seo=25.100.400&bitm_photogallery=25.100.0&bitm_iblock=25.300.0&bitm_rest=26.0.0&bitm_translate=25.100.0&bitm_subscribe=25.0.0&bitm_landing=26.200.0&bitm_mobileapp=25.0.100&bitm_b24connector=25.0.0&bitm_messageservice=25.200.100&bitm_search=25.200.0&bitm_vote=26.0.0&bitm_clouds=25.100.0&bitm_fileman=25.200.200&bitm_socialservices=26.0.0&bitm_highloadblock=25.100.0&bitm_ui=26.150.0&bitm_bitrixcloud=25.100.0&bitm_form=26.0.0&bitm_forum=26.0.0&bitm_location=25.400.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
-2026-09-15 23:56:56 -  - exec CUpdateClient::GetHTTPPage
-2026-09-15 23:56:56 -  - TIME GetUpdatesList(request) 0.258 sec
-2026-09-15 23:56:56 -  - exec CUpdateClient::ParseServerData

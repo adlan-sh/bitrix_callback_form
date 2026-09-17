@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'andreyryabin/sprint.migration' => array(
-            'pretty_version' => '5.14.0',
-            'version' => '5.14.0.0',
-            'reference' => '2e01870c9ea3b3b5562b1bf6fedc808eda8416e3',
+            'pretty_version' => '5.15.1',
+            'version' => '5.15.1.0',
+            'reference' => '65a3f5ab1f91e636d00b6705c603cad3bc8da835',
             'type' => 'bitrix-module',
             'install_path' => __DIR__ . '/../../local/modules/sprint.migration',
             'aliases' => array(),

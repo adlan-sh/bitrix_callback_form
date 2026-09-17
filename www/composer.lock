@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8a07238e3cf92b5cd94b2255944129fd",
+    "content-hash": "ba624e67aab2f8c20e7f0988fe4ab6f6",
     "packages": [
         {
             "name": "andreyryabin/sprint.migration",
-            "version": "5.14.0",
+            "version": "5.15.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/andreyryabin/sprint.migration.git",
-                "reference": "2e01870c9ea3b3b5562b1bf6fedc808eda8416e3"
+                "reference": "65a3f5ab1f91e636d00b6705c603cad3bc8da835"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andreyryabin/sprint.migration/zipball/2e01870c9ea3b3b5562b1bf6fedc808eda8416e3",
-                "reference": "2e01870c9ea3b3b5562b1bf6fedc808eda8416e3",
+                "url": "https://api.github.com/repos/andreyryabin/sprint.migration/zipball/65a3f5ab1f91e636d00b6705c603cad3bc8da835",
+                "reference": "65a3f5ab1f91e636d00b6705c603cad3bc8da835",
                 "shasum": ""
             },
             "require": {
@@ -51,9 +51,9 @@
             ],
             "support": {
                 "issues": "https://github.com/andreyryabin/sprint.migration/issues",
-                "source": "https://github.com/andreyryabin/sprint.migration/tree/5.14.0"
+                "source": "https://github.com/andreyryabin/sprint.migration/tree/5.15.1"
             },
-            "time": "2026-07-28T10:18:44+00:00"
+            "time": "2026-09-17T14:47:11+00:00"
         },
         {
             "name": "composer/installers",

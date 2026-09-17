@@ -50,4 +50,16 @@ $APPLICATION->SetTitle("Новости банка");
 		"DISPLAY_PREVIEW_TEXT" => "Y",
 		"AJAX_OPTION_ADDITIONAL" => ""
 	)
-);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+);?>
+
+<?$APPLICATION->IncludeComponent(
+    "bitrix:form.result.new",
+    "callback",
+    [
+        "WEB_FORM_ID" => "1",
+        "SEF_MODE" => "N",
+        "CACHE_TYPE" => "N",
+    ]
+);?>
+
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
